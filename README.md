@@ -1,7 +1,7 @@
-Gilberto Felipe Ramírez García
+José Joiarib Díaz García
 4K - Programación web
 
-# Presentación Boostrap 4
+# Tarea
 
 Enlace al documento: https://docs.google.com/document/d/1Ekg7PgCe2mmSIu0WnPRW9WoWSOVUsuDjAr-cakGNCdw/edit?usp=sharing 
 
